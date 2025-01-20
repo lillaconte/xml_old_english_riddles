@@ -8,7 +8,7 @@ The abundance of metaphorical language and the precision with which alliterative
 
 ## 🌐 Overview of the project 
 
-This project aims to encode six Old English Exeter Book riddles associated to early English perceptions of the sky or related imagery (the sun, the moon, heaven). It aims to outline the poetic structure of these texts and highlight the alliteration patterns which characterise Old English poetry. The XML encoding template is inspired by TEI guidelines but also introduces some custom tags.
+This project aims to encode six Old English Exeter Book riddles associated to early English perceptions of the sky or related imagery (the sun, the moon, heaven). It aims to outline the poetic structure of these texts and highlight the alliteration patterns which characterise Old English poetry. The encoding uses TEI guidelines.
 
 ## 🗃️ Contents of this repository 
 
