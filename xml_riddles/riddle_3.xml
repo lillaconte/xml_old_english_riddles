@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/myGeneratedODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding of Riddle 3</title>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Lilla Conte</distributor>
+            <date when="2025">2025</date>
+            <pubPlace>Paris</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/publicdomain/mark/1.0/">
+                  This work is in the public domain.
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <edition>
+                  <title type="book">The Riddles of the Exeter Book
+                     <idno type="isbn">978-1019202579</idno>
+                  </title>
+                  <date when="1910">1910</date>
+               </edition>
+               <ref type="ark" target="ark:/13960/t2x35b380">Digital Facsimile of the Edition</ref>
+               <!-- Artificial title given to the poem -->
+               <title type="poem" subtype="artificial">Riddle 3</title>
+               <!-- Pages where poem is found in the edition -->
+               <note type="pages">p.2-3</note>
+               <!-- Number of lines in poem -->
+               <note type="lines">15 lines</note>
+               <lang>Old English</lang>
+               <author>Unknown</author>
+               <editor>Frederick J. Tupper</editor>
+               <publisher>Ginn and Company</publisher>
+               <!-- First line of the poem, without the caesura -->
+               <incipit>Hwilum ic gewite</incipit>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg style="poem">
+            <l met="verse">Hwilum ic ge<seg type="alliteration" subtype="w">w</seg>ite,
+               <milestone unit="caesura"/>
+               swa ne <seg type="alliteration" subtype="w">w</seg>enaþ men,
+            </l>
+            <l met="verse">under y<seg type="alliteration" subtype="þ">þ</seg>a ge<seg type="alliteration" subtype="þ">þ</seg>ræc
+               <milestone unit="caesura"/>eor<seg type="alliteration" subtype="þ">þ</seg>an secan,
+            </l>
+            <l met="verse"><seg type="alliteration" subtype="g">g</seg>arsecges <seg type="alliteration" subtype="g">g</seg>rund.
+               <milestone unit="caesura"/><seg type="alliteration" subtype="g">G</seg>ifen biþ <seg type="alliteration" subtype="g">g</seg>ewreged,
+            </l>
+            <l met="verse">fam <seg type="alliteration" subtype="g">g</seg>ewealcen;
+               <milestone unit="caesura"/>
+            </l>
+            <l met="verse"><seg type="alliteration" subtype="h">h</seg>wælmere <seg type="alliteration" subtype="h">h</seg>limmeð,
+               <milestone unit="caesura"/><seg type="alliteration" subtype="h">h</seg>lude grimmeð,
+            </l>
+            <l met="verse"><seg type="alliteration" subtype="s">s</seg>treamas <seg type="alliteration" subtype="s">s</seg>ttaþu beatað,
+               <milestone unit="caesura"/><seg type="alliteration" subtype="s">s</seg>ttundum weorpaþ
+            </l>
+            <l met="verse">on <seg type="alliteration" subtype="s">s</seg>ttealc hleoþa
+               <milestone unit="caesura"/><seg type="alliteration" subtype="s">s</seg>ttane ond <seg type="alliteration" subtype="s">s</seg>tonde,
+            </l>
+            <l met="verse"> <seg type="alliteration" subtype="w">w</seg>are ond <seg type="alliteration" subtype="w">w</seg>æge,
+               <milestone unit="caesura"/>þonne ic <seg type="alliteration" subtype="w">w</seg>innende,
+            </l>
+            <l met="verse"> <seg type="alliteration" subtype="h">h</seg>olmmægne biþeaht,
+               <milestone unit="caesura"/><seg type="alliteration" subtype="h">h</seg>rusan styrge,
+            </l>
+            <l met="verse"> <seg type="alliteration" subtype="s">s</seg>ide <seg type="alliteration" subtype="s">s</seg>ideægrundas.
+               <milestone unit="caesura"/><seg type="alliteration" subtype="s">S</seg>ideundhelme ne mæg
+            </l>
+            <l met="verse"> <seg type="alliteration" subtype="l">l</seg>osian ær mec <seg type="alliteration" subtype="l">l</seg>æte
+               <milestone unit="caesura"/>se þe min <seg type="alliteration" subtype="l">l</seg>atteow bið
+            </l>
+            <l met="verse" ana="end_formula"> on <seg type="alliteration" subtype="s">s</seg>iþa gehwam.
+               <milestone unit="caesura"/><seg type="alliteration" subtype="s">S</seg>aga, þoncol mon,
+            </l>
+            <l met="verse">hwa mec <seg type="alliteration" subtype="b">b</seg>regde
+               <milestone unit="caesura"/>of <seg type="alliteration" subtype="b">b</seg>rrimes fæþmum,
+            </l>
+            <l met="verse">þonne <seg type="alliteration" subtype="s">s</seg>treamas eft
+               <milestone unit="caesura"/><seg type="alliteration" subtype="s">s</seg>tille weorþað,
+            </l>
+            <l met="verse">yþa geþ<seg type="alliteration" subtype="w">w</seg>ære,
+               <milestone unit="caesura"/>þe mec ær <seg type="alliteration" subtype="w">w</seg>rugon.
+            </l>
+         </lg>
+      </body>
+   </text>
+</TEI>

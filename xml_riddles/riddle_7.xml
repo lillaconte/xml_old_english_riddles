@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-model href="out/myGeneratedODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encoding of Riddle 7</title>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Lilla Conte</distributor>
+            <date when="2025">2025</date>
+            <pubPlace>Paris</pubPlace>
+            <availability>
+               <licence target="http://creativecommons.org/publicdomain/mark/1.0/">
+                  This work is in the public domain.
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <edition>
+                  <title type="book">The Riddles of the Exeter Book
+                     <idno type="isbn">978-1019202579</idno>
+                  </title>
+                  <date when="1910">1910</date>
+               </edition>
+               <ref type="ark" target="ark:/13960/t2x35b380">Digital Facsimile of the Edition</ref>
+               <!-- Artificial title given to the poem -->
+               <title type="poem" subtype="artificial">Riddle 7</title>
+               <!-- Pages where poem is found in the edition -->
+               <note type="pages">p.7-8</note>
+               <!-- Number of lines in poem -->
+               <note type="lines">10 lines</note>
+               <lang>Old English</lang>
+               <author>Unknown</author>
+               <editor>Frederick J. Tupper</editor>
+               <publisher>Ginn and Company</publisher>
+               <!-- First line of the poem, without the caesura -->
+               <incipit>Mec gesette soð</incipit>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg style="poem">
+            <l met="verse">
+               Mec ge<seg type="alliteration" subtype="s">s</seg>ette <seg type="alliteration" subtype="s">s</seg>oð         
+               <milestone unit="caesura"/><seg type="alliteration" subtype="s">s</seg>igora waldend
+               
+            </l>
+            <l met="verse"> <seg type="alliteration" subtype="c">C</seg>rist to <seg type="alliteration" subtype="c">c</seg>ompe.        
+               <milestone unit="caesura"/>Oft ic <seg type="alliteration" subtype="c">c</seg>wice bærne,
+            </l>
+            <l met="verse"> unrimu cyn
+               <milestone unit="caesura"/>eorþan getenge,
+            </l>
+            <l met="verse"> <seg type="alliteration" subtype="n">n</seg>næte mid <seg type="alliteration" subtype="n">n</seg>iþe,         
+               <milestone unit="caesura"/>swa ic him <seg type="alliteration" subtype="n">n</seg>o hrine,
+            </l>
+            <l met="verse">þonne <seg type="alliteration" subtype="m">m</seg>ec <seg type="alliteration" subtype="m">m</seg>in <seg type="alliteration" subtype="f">f</seg>rea         
+               <milestone unit="caesura"/><seg type="alliteration" subtype="f">f</seg>eohtan hateþ.
+            </l>
+            <l met="verse"> Hwilum ic <seg type="alliteration" subtype="m">m</seg>onigra         
+               <milestone unit="caesura"/><seg type="alliteration" subtype="m">m</seg>od arete,
+            </l>
+            <l met="verse">hwilum ic frefre         
+               <milestone unit="caesura"/>þa ic ær winne on
+            </l>
+            <l met="verse"> <seg type="alliteration" subtype="f">f</seg>eorran swiþe;         
+               <milestone unit="caesura"/>hi þæs <seg type="alliteration" subtype="f">f</seg>elað þeah,
+            </l>
+            <l met="verse">swylce þæs oþres,         
+               <milestone unit="caesura"/>þonne ic eft hyra
+            </l>
+            <l met="verse"> ofer <seg type="alliteration" subtype="d">d</seg>eop ge<seg type="alliteration" subtype="d">d</seg>reag         
+               <milestone unit="caesura"/><seg type="alliteration" subtype="d">d</seg>rohtað bete.
+            </l>
+         </lg>
+      </body>
+   </text>
+</TEI>
