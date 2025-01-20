@@ -2,7 +2,7 @@
 
 ## 🎲 The Exeter Book Riddles 
 
-The Exeter Book is a tenth-century codex containing a rich anthology of Old English literature.Several of the Exeter Book poetic texts offer an insight into the Old English approach to the sky, with perspectives ranging from the physical to the spiritual.
+The Exeter Book is a tenth-century codex containing a rich anthology of Old English literature. Several of the Exeter Book poetic texts offer an insight into the Old English approach to the sky, with perspectives ranging from the physical to the spiritual.
 
 The abundance of metaphorical language and the precision with which alliterative patterns are constructed in the _Exeter Book Riddles_ make them a very suitable object of study for this project.
 
