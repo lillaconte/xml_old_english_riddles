@@ -14,7 +14,7 @@ This project aims to encode six Old English Exeter Book riddles associated to ea
 
 This repository contains :
 * An .odd file with relevant specifications and rules.
-* A Relax NG schema and HTML file generated from the .odd file.
+* A .rng Relax NG schema (in the folder 'out') and an HTML file generated from the .odd file.
 * 6 .xml files corresponding to the encodings of each riddle (Riddles 2, 3, 4, 7, 30, 67).
 
 
